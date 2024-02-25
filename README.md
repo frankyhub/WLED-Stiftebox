@@ -36,7 +36,7 @@ Der Aufbau und die Montage der WLED-Stiftebox ist in mehrere Schritte unterteilt
 
 Verwende die Inkscape Vorlage:
 
-Inkscape Vorlage
+[Inkscape Vorlage](https://github.com/frankyhub/WLED-Stiftebox/tree/main/svg)
 
 
 ![Bild](pic/02wled.png)
