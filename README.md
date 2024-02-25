@@ -8,7 +8,7 @@ Diese Anleitung beschreibt die Montage einer WLED-Stiftebox. Das Stiftebox Gehä
 
 
 
-![Bild](01wled.png)
+![Bild](pic/01wled.png)
 
 ### Die WLED-Stiftebox
 
@@ -39,7 +39,7 @@ Verwende die Inkscape Vorlage:
 Inkscape Vorlage
 
 
-![Bild](02wled.png)
+![Bild](pic/02wled.png)
 
 
 #### Schritt 2: Die Verbindungen löten
@@ -49,9 +49,9 @@ ESP8266 > WLED
 5V > 5V, (D4) GPIO2 > Din, GND > GND
 
 
-![Bild](03wled.png)
+![Bild](pic/03wled.png)
 
-![Bild](04wled.png)
+![Bild](pic/04wled.png)
 
 
 
@@ -60,55 +60,55 @@ Schließe den ESP8266 an den Laptop an und öffne im Browser die Seite https://i
 Starte mit "Installieren"
 
 
-![Bild](05wled.png)
+![Bild](pic/05wled.png)
 
 ### Stelle die USB-Verbindung her
 
 
-![Bild](06wled.png)
+![Bild](pic/06wled.png)
 
 ### Installiere die WLED
 
 
-![Bild](07wled.png)
+![Bild](pic/07wled.png)
 
-![Bild](08wled.png)
+![Bild](pic/08wled.png)
 
-![Bild](09wled.png)
+![Bild](pic/09wled.png)
 
-![Bild](10wled.png)
+![Bild](pic/10wled.png)
 
 ### Gib die WLAN Zugangsdaten ein
 
 
-![Bild](11wled.png)
+![Bild](pic/11wled.png)
 
-![Bild](12wled.png)
+![Bild](pic/12wled.png)
 
 ### Öffne die Verbindung zum ESP8266
 
 
-![Bild](13wled.png)
+![Bild](pic/13wled.png)
 
 ### Öffne die Konfigurations-Seite
 
 
-![Bild](14wled.png)
+![Bild](pic/14wled.png)
 
 ### Öffne die LED-Einstellungen
 
 
-![Bild](15wled.png)
+![Bild](pic/15wled.png)
 
 ### Editiere die WLED-Einstellungen
 
 
-![Bild](16wled.png)
+![Bild](pic/16wled.png)
 
 ### Teste die Funktionen
 
 
-![Bild](17wled.png)
+![Bild](pic/17wled.png)
 
 
 
@@ -118,7 +118,7 @@ Montiere den ESP8266 in die Stiftebox und führe die Kabel durch die Boden-Öffn
 Klebe den WLED-Stripe auf die Unterseite der Stiftebox.
 
 
-![Bild](18wled.png)
+![Bild](pic/18wled.png)
 
 
 
@@ -126,7 +126,7 @@ Klebe den WLED-Stripe auf die Unterseite der Stiftebox.
 Nach der Montage und dem Funktionstest wird der ESP8266 über ein USB-C Kabel und einem Steckernetzteil oder einem Akkupack mit Spannung versorgt.
 
 
-![Bild](19wled.png)
+![Bild](pic/19wled.png)
 
 Die WLED-Stiftebox
 
@@ -136,17 +136,17 @@ Nach der Installation ist die WLED-Stiftebox mit dem Handy/Tabled/PC steuerbar.
 Im WiFi setup kann eine feste mDNS Adresse gespeichert werden, z.B. mywled.local.
 
 
-![Bild](20wled.png)
+![Bild](pic/20wled.png)
 
 Aufruf der WLED-Steuerseite mit: mywled.local
 
-![Bild](21wled.png)
+![Bild](pic/21wled.png)
 
 
 Alternativ zur WLED-Stiftebox könnt ihr auch eine WLED-Lampe bauen
 
 
-![Bild](22wled.png)
+![Bild](pic/22wled.png)
 
 Fertig!
 
